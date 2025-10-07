@@ -1,0 +1,38 @@
+{
+  "files": [
+    "alarm",
+    "b2b",
+    "bravo",
+	"collapse",
+    "erase4",
+    "erasenot4",
+    "excellent",
+    "garbage",
+    "harddrop",
+    "hold",
+	"hurryup",
+	"initialhold",
+	"initialrotate",
+	"initialskip",
+    "ko",
+    "levelupmajor",
+	"levelupminor",
+	"lockforce",
+    "locknohd",
+    "move",
+    "pause",
+    "prespin",
+    "ready",
+    "rotate",
+	"skip",
+    "start",
+	"topoutwarning",
+    "tspin"
+  ],
+  "ren": [
+    1,
+    5,
+    10,
+    15
+  ]
+}

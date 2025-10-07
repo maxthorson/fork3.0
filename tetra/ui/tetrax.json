@@ -1,0 +1,21 @@
+{
+  "properties": {
+    "parent": "root",
+    "vox": "menutetrax"
+  },
+  "data": [
+    {
+      "string": "standardLabel",
+      "stringDesc": "standardDescription",
+      "default": true,
+      "action": "game",
+      "game": "standardx"
+    },
+    {
+      "string": "proLabel",
+      "stringDesc": "proDescription",
+      "action": "game",
+      "game": "prox"
+    }
+  ]
+}

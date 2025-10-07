@@ -1,0 +1,12 @@
+{
+  "files": [
+    "erase",
+    "gameover",
+    "harddrop",
+    "lock",
+    "pause",
+    "rotate",
+	"tspin"
+  ],
+  "ren": []
+}

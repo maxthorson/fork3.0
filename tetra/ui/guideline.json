@@ -1,0 +1,52 @@
+{
+  "properties": {
+    "parent": "root",
+    "vox": "menuguideline"
+  },
+  "data": [
+    {
+      "string": "marathonLabel",
+      "stringDesc": "marathonDescription",
+      "default": true,
+      "action": "submenu",
+      "submenu": "mode/marathon"
+    },
+    {
+      "string": "sprintLabel",
+      "stringDesc": "sprintDescription",
+      "action": "submenu",
+      "submenu": "mode/sprint"
+    },
+    {
+      "string": "ultraLabel",
+      "stringDesc": "ultraDescription",
+      "action": "submenu",
+      "submenu": "mode/ultra"
+    },
+    {
+      "string": "masterLabel",
+      "stringDesc": "masterDescription",
+      "action": "submenu",
+      "submenu": "mode/master"
+    },
+    {
+      "string": "survivalLabel",
+      "stringDesc": "survivalDescription",
+      "action": "submenu",
+      "submenu": "mode/survival"
+    },
+    {
+      "string": "comboLabel",
+      "stringDesc": "comboDescription",
+      "action": "submenu",
+      "submenu": "mode/combo"
+    },
+    {
+      "label": "NIGHT OF NIGHTS",
+      "description": "Forced 3 pieces per second! Good luck.",
+      "fixedText": true,
+      "action": "game",
+      "game": "non"
+    }
+  ]
+}

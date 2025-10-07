@@ -1,0 +1,31 @@
+{
+  "properties": {
+    "parent": "root",
+    "vox": "menuretro"
+  },
+  "data": [
+    {
+      "string": "variationsOverline",
+      "type": "overline"
+    },
+    {
+      "string": "consoleLabel",
+      "stringDesc": "consoleDescription",
+      "default": true,
+      "action": "submenu",
+      "submenu": "mode/retro"
+    },
+    {
+      "string": "handheldLabel",
+      "stringDesc": "handheldDescription",
+      "action": "game",
+      "game": "handheld"
+    },
+    {
+      "string": "deluxeLabel",
+      "stringDesc": "deluxeDescription",
+      "action": "game",
+      "game": "deluxe"
+    }
+  ]
+}
